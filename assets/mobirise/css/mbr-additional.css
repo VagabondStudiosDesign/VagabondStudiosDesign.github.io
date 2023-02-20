@@ -2036,7 +2036,7 @@ a {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #000000;
+  background-color: #dddddd;
 }
 .cid-twdNjkcuTe #loading-center-absolute {
   position: absolute;
@@ -2062,7 +2062,7 @@ a {
   margin: -90px 0 0 -90px;
   border-radius: 50%;
   border: 1px solid transparent;
-  border-top-color: #fded04;
+  border-top-color: #a3a6b2;
   -webkit-animation: spin 2s linear infinite;
   animation: spin 2s linear infinite;
   z-index: 1001;
@@ -2076,7 +2076,7 @@ a {
   bottom: 5px;
   border-radius: 50%;
   border: 1px solid transparent;
-  border-top-color: #fded04;
+  border-top-color: #a3a6b2;
   -webkit-animation: spin 3s linear infinite;
   animation: spin 3s linear infinite;
 }
@@ -2089,7 +2089,7 @@ a {
   bottom: 15px;
   border-radius: 50%;
   border: 1px solid transparent;
-  border-top-color: #fded04;
+  border-top-color: #a3a6b2;
   -webkit-animation: spin 1.5s linear infinite;
   animation: spin 1.5s linear infinite;
 }
