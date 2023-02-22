@@ -712,7 +712,7 @@ a {
   text-align: left;
 }
 .cid-tw3apBcTd5 {
-  background-image: url("../../../assets/images/chicago-approach-bw.jpg");
+  background-image: url("../../../assets/images/chicago-approach-background.jpg");
 }
 .cid-tw3apBcTd5 h1 {
   color: #616161;
@@ -869,6 +869,9 @@ a {
   .cid-tw3TX7oP56 form .mbr-section-btn .btn {
     width: 100%;
   }
+}
+.cid-tw3TX7oP56 .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-tw3WuaMFTH {
   padding-top: 30px;
@@ -1773,10 +1776,123 @@ a {
 .cid-twdCudQmjG .mbr-section-btn .btn {
   margin: 0;
 }
+.cid-twdMEBJG4o {
+  background: #000000;
+}
+.cid-twdMEBJG4o .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-twdMEBJG4o figcaption {
+  position: relative;
+}
+.cid-twdMEBJG4o figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-twdMEBJG4o .image-block {
+    width: 100% !important;
+  }
+}
+.cid-twdNjkcuTe #loading-center-preloader {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background-color: #dddddd;
+}
+.cid-twdNjkcuTe #loading-center-absolute {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+}
+.cid-twdNjkcuTe .spinner {
+  position: relative;
+  margin: 0px 0px 0px -60px;
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  font-size: 10px;
+}
+.cid-twdNjkcuTe #dentaura-spinner {
+  pointer-events: none;
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  width: 180px;
+  height: 180px;
+  margin: -90px 0 0 -90px;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  border-top-color: #a3a6b2;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  z-index: 1001;
+}
+.cid-twdNjkcuTe #dentaura-spinner:before {
+  content: "";
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+  bottom: 5px;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  border-top-color: #a3a6b2;
+  -webkit-animation: spin 3s linear infinite;
+  animation: spin 3s linear infinite;
+}
+.cid-twdNjkcuTe #dentaura-spinner:after {
+  content: "";
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 50%;
+  border: 1px solid transparent;
+  border-top-color: #a3a6b2;
+  -webkit-animation: spin 1.5s linear infinite;
+  animation: spin 1.5s linear infinite;
+}
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.cid-twdNjkcuTe .dentaura-logo-preloader {
+  position: relative;
+  left: 0px;
+  top: -90px;
+  border-radius: 50%;
+  max-width: 120px;
+  width: 100%;
+}
 .cid-tw2mWlG8RF {
   padding-top: 8rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/mapoutline-background-png.png");
+  background-image: url("../../../assets/images/chicago-panorama-yacht-back-1.5.jpg");
 }
 @media (min-width: 992px) {
   .cid-tw2mWlG8RF .text-wrapper {
@@ -2011,117 +2127,4 @@ a {
 }
 .cid-tw3WuaMFTH .media-container-row .mbr-text {
   color: #545454;
-}
-.cid-twdMEBJG4o {
-  background: #000000;
-}
-.cid-twdMEBJG4o .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-twdMEBJG4o figcaption {
-  position: relative;
-}
-.cid-twdMEBJG4o figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-twdMEBJG4o .image-block {
-    width: 100% !important;
-  }
-}
-.cid-twdNjkcuTe #loading-center-preloader {
-  width: 100%;
-  height: 100vh;
-  position: relative;
-  background-color: #dddddd;
-}
-.cid-twdNjkcuTe #loading-center-absolute {
-  position: absolute;
-  left: 50%;
-  top: 40%;
-}
-.cid-twdNjkcuTe .spinner {
-  position: relative;
-  margin: 0px 0px 0px -60px;
-  width: 120px;
-  height: 120px;
-  text-align: center;
-  font-size: 10px;
-}
-.cid-twdNjkcuTe #dentaura-spinner {
-  pointer-events: none;
-  display: block;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  width: 180px;
-  height: 180px;
-  margin: -90px 0 0 -90px;
-  border-radius: 50%;
-  border: 1px solid transparent;
-  border-top-color: #a3a6b2;
-  -webkit-animation: spin 2s linear infinite;
-  animation: spin 2s linear infinite;
-  z-index: 1001;
-}
-.cid-twdNjkcuTe #dentaura-spinner:before {
-  content: "";
-  position: absolute;
-  top: 5px;
-  left: 5px;
-  right: 5px;
-  bottom: 5px;
-  border-radius: 50%;
-  border: 1px solid transparent;
-  border-top-color: #a3a6b2;
-  -webkit-animation: spin 3s linear infinite;
-  animation: spin 3s linear infinite;
-}
-.cid-twdNjkcuTe #dentaura-spinner:after {
-  content: "";
-  position: absolute;
-  top: 15px;
-  left: 15px;
-  right: 15px;
-  bottom: 15px;
-  border-radius: 50%;
-  border: 1px solid transparent;
-  border-top-color: #a3a6b2;
-  -webkit-animation: spin 1.5s linear infinite;
-  animation: spin 1.5s linear infinite;
-}
-@-webkit-keyframes spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    transform: rotate(360deg);
-  }
-}
-@keyframes spin {
-  0% {
-    -webkit-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    transform: rotate(0deg);
-  }
-  100% {
-    -webkit-transform: rotate(360deg);
-    -ms-transform: rotate(360deg);
-    transform: rotate(360deg);
-  }
-}
-.cid-twdNjkcuTe .dentaura-logo-preloader {
-  position: relative;
-  left: 0px;
-  top: -90px;
-  border-radius: 50%;
-  max-width: 120px;
-  width: 100%;
 }
