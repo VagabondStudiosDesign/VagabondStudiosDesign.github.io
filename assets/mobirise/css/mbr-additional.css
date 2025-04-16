@@ -1612,40 +1612,14 @@ a {
 .cid-tBcJOwHlSs .card-title {
   text-align: left;
 }
-.cid-uFIMuj6kpy {
-  background-image: url("../../../assets/images/vagabond-studios-chicago-background.jpg");
+.cid-uIxe5z28CU {
+  background-color: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
-.cid-uFIMuj6kpy h1 {
-  background-color: transparent;
-  overflow: hidden;
-  display: inline-block;
-  color: transparent;
-  line-height: 1;
-}
-.cid-uFIMuj6kpy span {
-  background-image: url("../../../assets/images/stripe-png-1.png");
-  background-size: 1920px 600px;
-  background-position: center;
-  -webkit-text-fill-color: transparent;
-  -webkit-background-clip: text;
-  display: block;
-  animation: scroll 14s infinite linear;
-  pointer-events: none;
-}
-@keyframes scroll {
-  0% {
-    background-position-y: 0px;
-  }
-  99.999% {
-    background-position-y: -600px;
-  }
-  100% {
-    background-position-y: 0px;
-  }
-}
-.cid-uFIMuj6kpy .mbr-section-title {
-  color: #ffffff;
-  text-align: center;
+.cid-uIxe5z28CU img {
+  object-fit: contain;
+  border-radius: 0 !important;
 }
 .cid-tAmWYct1Ya {
   padding-top: 4rem;
