@@ -1668,15 +1668,15 @@ a {
   object-fit: contain;
   border-radius: 0 !important;
 }
-.cid-tAmWYct1Ya {
-  padding-top: 4rem;
+.cid-uZSPxLqO8i {
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #000000;
 }
-.cid-tAmWYct1Ya .mbr-fallback-image.disabled {
+.cid-uZSPxLqO8i .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tAmWYct1Ya .mbr-fallback-image {
+.cid-uZSPxLqO8i .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1685,12 +1685,11 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-tAmWYct1Ya .mbr-section-title {
+.cid-uZSPxLqO8i .mbr-section-title {
   color: #ffffff;
-  text-align: center;
 }
 .cid-tAcQWljCJY {
-  background-image: url("../../../assets/images/thestandingdesk-sgdvtz0wt0s-unsplash-2000x1000.jpg");
+  background-image: url("../../../assets/images/italy-back-2.jpg");
 }
 .cid-tAcQWljCJY .mbr-fallback-image.disabled {
   display: none;
@@ -1711,7 +1710,7 @@ a {
   .cid-tAcQWljCJY .image-wrap img {
     display: block;
     margin: auto;
-    width: 70%;
+    width: 30%;
   }
 }
 .cid-tAcQWljCJY .mbr-section-title {
@@ -3211,6 +3210,13 @@ a {
   /* Type valid CSS here */
 }
 #custom-html-be #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
+#custom-html-bf {
+  /* Type valid CSS here */
+}
+#custom-html-bf #openseadragon {
   width: 100vw;
   height: 100vh;
 }
