@@ -3220,3 +3220,10 @@ a {
   width: 100vw;
   height: 100vh;
 }
+#custom-html-bi {
+  /* Type valid CSS here */
+}
+#custom-html-bi #openseadragon {
+  width: 100vw;
+  height: 100vh;
+}
